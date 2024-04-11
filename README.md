@@ -31,6 +31,10 @@ Dice Roller App is your indispensable assistant in games and role-playing sessio
 * SizedBox 
 
 ## Video
+<video controls>
+  <source src="assets/video/DiceApp.mov">
+</video>
+
 [![Example](https://github.com/RushMarina/Flutter-Dice-Roller-App/blob/main/assets/img/DiceSpelApp.png)]
 (https://github.com/RushMarina/Flutter-Dice-Roller-App/assets/150655218/dccc7cad-27b0-4fc8-8f3d-9177c71dd951)
 
